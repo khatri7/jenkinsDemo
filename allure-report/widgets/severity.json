@@ -1,0 +1,101 @@
+[ {
+  "uid" : "9aad9788e4d7da33",
+  "name" : "test4",
+  "time" : {
+    "start" : 1585310030176,
+    "stop" : 1585310030176,
+    "duration" : 0
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "21c3a5218055df3c",
+  "name" : "test2",
+  "time" : {
+    "start" : 1585310030166,
+    "stop" : 1585310030166,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "52878948a36628c0",
+  "name" : "skippedByDependencyTest",
+  "time" : {
+    "start" : 1585310030181,
+    "stop" : 1585310030181,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "c7445143c1fc0dc",
+  "name" : "skippedByDependencyTest",
+  "time" : {
+    "start" : 1585310030156,
+    "stop" : 1585310030156,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "240b29b6140f9141",
+  "name" : "example3",
+  "time" : {
+    "start" : 1585310030142,
+    "stop" : 1585310030142,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9da9e2b56a01cf22",
+  "name" : "example4",
+  "time" : {
+    "start" : 1585310030147,
+    "stop" : 1585310030149,
+    "duration" : 2
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "1586b26b6eb348a4",
+  "name" : "example1",
+  "time" : {
+    "start" : 1585310029895,
+    "stop" : 1585310029914,
+    "duration" : 19
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "fa09cbe65e83b649",
+  "name" : "example2",
+  "time" : {
+    "start" : 1585310030124,
+    "stop" : 1585310030125,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b7548d2c8c61907e",
+  "name" : "test1",
+  "time" : {
+    "start" : 1585310030161,
+    "stop" : 1585310030162,
+    "duration" : 1
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "35de27ea7e3ddda1",
+  "name" : "test3",
+  "time" : {
+    "start" : 1585310030171,
+    "stop" : 1585310030172,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

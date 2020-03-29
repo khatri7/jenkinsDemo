@@ -1,0 +1,198 @@
+{
+  "379e035dca005d0609eb96c721724650" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "35de27ea7e3ddda1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1585310030171,
+        "stop" : 1585310030172,
+        "duration" : 1
+      }
+    } ]
+  },
+  "eeff00f09bf75451a340b33873ef8d0b" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9aad9788e4d7da33",
+      "status" : "failed",
+      "statusDetails" : "This test should be failed",
+      "time" : {
+        "start" : 1585310030176,
+        "stop" : 1585310030176,
+        "duration" : 0
+      }
+    } ]
+  },
+  "4a3850da3c0482db9cbdd9d888d02244" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fa09cbe65e83b649",
+      "status" : "passed",
+      "time" : {
+        "start" : 1585310030124,
+        "stop" : 1585310030125,
+        "duration" : 1
+      }
+    } ]
+  },
+  "c62636224e610df013ceb880265d6af6" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9da9e2b56a01cf22",
+      "status" : "failed",
+      "statusDetails" : "This test should be failed",
+      "time" : {
+        "start" : 1585310030147,
+        "stop" : 1585310030149,
+        "duration" : 2
+      }
+    } ]
+  },
+  "4dd0d110bb05350edea1d7950de232e7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "21c3a5218055df3c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1585310030166,
+        "stop" : 1585310030166,
+        "duration" : 0
+      }
+    } ]
+  },
+  "452374df062d73443286879809b73ca0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c7445143c1fc0dc",
+      "status" : "skipped",
+      "statusDetails" : "Method Test1.skippedByDependencyTest()[pri:0, instance:com.test.Test1@324dcd31] depends on not successfully finished methods",
+      "time" : {
+        "start" : 1585310030156,
+        "stop" : 1585310030156,
+        "duration" : 0
+      }
+    } ]
+  },
+  "f1109d6693f7bedcb9decf6eefc64e68" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1586b26b6eb348a4",
+      "status" : "failed",
+      "statusDetails" : "This test should be failed expected [3] but found [2]",
+      "time" : {
+        "start" : 1585310029895,
+        "stop" : 1585310029914,
+        "duration" : 19
+      }
+    } ]
+  },
+  "47ac2917cdea36d0db82aa07eb2fc843" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "240b29b6140f9141",
+      "status" : "passed",
+      "time" : {
+        "start" : 1585310030142,
+        "stop" : 1585310030142,
+        "duration" : 0
+      }
+    } ]
+  },
+  "d9830c2d9845f155e8c01ed3342533ec" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b7548d2c8c61907e",
+      "status" : "failed",
+      "statusDetails" : "expected [3] but found [2]",
+      "time" : {
+        "start" : 1585310030161,
+        "stop" : 1585310030162,
+        "duration" : 1
+      }
+    } ]
+  },
+  "51d23c2c31e215e989fe9dc7e92969a2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "52878948a36628c0",
+      "status" : "skipped",
+      "statusDetails" : "Method Test2.skippedByDependencyTest()[pri:0, instance:com.test.Test2@503d56b5] depends on not successfully finished methods",
+      "time" : {
+        "start" : 1585310030181,
+        "stop" : 1585310030181,
+        "duration" : 0
+      }
+    } ]
+  }
+}
